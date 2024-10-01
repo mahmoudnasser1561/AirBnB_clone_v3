@@ -11,7 +11,6 @@
 * [Environmental Variables](#environmental-variables)
 * [Usage](#usage)
 * [Bugs](#bugs)
-* [Authors](#authors)
 * [License](#license)
 
 ## Description
